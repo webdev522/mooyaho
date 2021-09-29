@@ -2,8 +2,8 @@
   "name": "mooyaho",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/velopert/mooyaho.git",
-  "author": "Minjun Kim <public.velopert@gmail.com>",
+  "repository": "https://github.com/webdev522/mooyaho.git",
+  "author": "webdev522 <webdev522@gmail.com>",
   "license": "MIT",
   "private": true,
   "workspaces": [
